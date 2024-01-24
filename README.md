@@ -1,5 +1,5 @@
 <p align="center">
-
+  <img alt="Download on the App Store" title="App Store" src="chatwoot-mobile-app/src/assets/images/appLogo.png" width="140">
   <div align="center">Mobile app for AI platform. Built with React Native</div>
 </p>
 
@@ -18,8 +18,7 @@
 - Assign statuses to your conversations
   ... and more to come!
 
-<p float="left">
-</p>
+
 
 ## Download Android/iOS application
 <p >
